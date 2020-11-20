@@ -1,0 +1,3 @@
+This file has just the list of all files git is tracking for that to track we need to use a command i.e
+
+git ls-files (this will shows all files tracked my git)
