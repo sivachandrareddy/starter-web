@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Siva Chandra Reddy   Devops Enginner    sivacry#69@gmail.com
 
 # THANKS
 
