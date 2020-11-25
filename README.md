@@ -16,6 +16,8 @@ This is a simple website project, which is used for deployment and used for vari
 
 ## How to Constribute
 
+Please check this repository with class and review with other team mates and then forward it other batches Please...
+
 ## Copyright notice
 
 this course work was leant in 2020 by siva from udemy
